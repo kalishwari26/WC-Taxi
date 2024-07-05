@@ -1,0 +1,14 @@
+.box-area{
+    width: 930;
+}
+body{
+    background: #fff44f;
+}
+input button{
+    background: #fff44f;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+button:hover{
+    background: #FFA700;
+}
